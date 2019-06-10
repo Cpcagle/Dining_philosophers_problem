@@ -1,0 +1,45 @@
+
+
+Foreman is delivering food
+Bread and Bologna Delivered
+Cheese miners obtained supplies
+
+
+Foreman is delivering food
+Cheese miners are making sandwhiches
+Cheese miners obtained supplies
+Bread and Bologna Delivered
+Cheese miners are eating sandwhiches
+Cheese miners are making sandwhiches
+
+
+Foreman is delivering food
+Cheese and Bologna Delivered
+Cheese miners are eating sandwhiches
+Bread miners are making sandwhiches
+Bread miners obtained supplies
+
+
+Foreman is delivering food
+Bread and Cheese Delivered
+Bologna miners obtained supplies
+
+
+Foreman is delivering food
+Bologna miners are making sandwhiches
+Bologna miners obtained supplies
+Bread and Cheese Delivered
+Bologna miners are eating sandwhiches
+Bologna miners are making sandwhiches
+
+
+Foreman is delivering food
+Bread and Bologna Delivered
+Cheese miners obtained supplies
+Cheese miners are making sandwhiches
+
+
+Foreman is delivering food
+Cheese and Bologna Delivered
+Bread miners obtained supplies
+Cheese miners are eating sandwhiches
